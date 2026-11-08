@@ -1,1 +1,2 @@
 # Chatbot-using-Chatterbot
+"COMPANY " : CODETECT IT SOLUTIONS "NAME" : Pratibha Sagar "INTERN ID" : CITS9526 "DOMAIN": PYTHON PROGRAMMING " : 4 WEEKS MENTOR: Neela Santhosh Kumar DESCRITPION of Your project(It’s a web chatbot called Aria. You open it in your browser, type a message, and the bot replies. The replies come from ChatterBot, a Python library that matches your message to the closest answer it was trained on. Flask serves the chat page, and the interface has a typing indicator, suggestion chips and a clear-chat button.)
